@@ -39,6 +39,7 @@
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>
 			<version>0.0.1</version>
+			<name>testCase</name>
 		</dependency>
 	</dependencies>
 
